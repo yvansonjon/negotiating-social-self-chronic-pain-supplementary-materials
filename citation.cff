@@ -1,0 +1,43 @@
+cff-version: 1.0.0
+message: "If you use these supplementary methodological or analytic materials, please cite them as below."
+title: "Supplementary Materials for: Negotiating the Social Self in Chronic Spinal Pain: A Qualitative Study"
+authors:
+  - family-names: Sonjon
+    given-names: Yvan
+    email: yvan.sonjon@inserm.fr
+    affiliation: "Centre Hospitalier Saint Jean de Dieu, Fédération de recherche, Fondation ARHM, F-69008, LYON, France; Université Claude Bernard Lyon 1, CNRS, INSERM, Centre de Recherche en Neurosciences de Lyon CRNL U1028 UMR5292, TRAJECTOIRES, F-69500, BRON, France; Université Claude Bernard Lyon 1, Institut des Sciences et Techniques de Réadaptation, F-69008, LYON, France"
+    orcid: "https://orcid.org/0009-0006-3942-9762"
+  - family-names: Charriau
+    given-names: Alice
+    affiliation: "Université Claude Bernard Lyon 1, CNRS, INSERM, Centre de Recherche en Neurosciences de Lyon CRNL U1028 UMR5292, TRAJECTOIRES, F-69500, BRON, France"
+    orcid: "https://orcid.org/0009-0002-6593-8393"
+  - family-names: Mouhoub
+    given-names: Dihia
+    affiliation: "Université Claude Bernard Lyon 1, CNRS, INSERM, Centre de Recherche en Neurosciences de Lyon CRNL U1028 UMR5292, TRAJECTOIRES, F-69500, BRON, France; Université Claude Bernard Lyon 1, Institut des Sciences et Techniques de Réadaptation, F-69008, LYON, France"
+    orcid: "https://orcid.org/0009-0008-9827-6510" 
+  - family-names: Van der Henst
+    given-names: Jean-Baptiste
+    affiliation: "Université Claude Bernard Lyon 1, CNRS, INSERM, Centre de Recherche en Neurosciences de Lyon CRNL U1028 UMR5292, TRAJECTOIRES, F-69500, BRON, France"
+    orcid: "https://orcid.org/0000-0002-2489-2328"
+  - family-names: Chabanat
+    given-names: Eric
+    affiliation: "Université Claude Bernard Lyon 1, CNRS, INSERM, Centre de Recherche en Neurosciences de Lyon CRNL U1028 UMR5292, TRAJECTOIRES, F-69500, BRON, France; Université Claude Bernard Lyon 1, Institut des Sciences et Techniques de Réadaptation, F-69008, LYON, France"
+    orcid: "https://orcid.org/0009-0000-2611-5592"
+type: dataset
+version: 1.0.0
+date-released: "2026-10-23"
+doi: "10.XXXX/zenodo.XXXXXXX"
+repository-code: "https://github.com/yvansonjon/qualitative-study-supplementary-materials"
+
+license: "CC-BY-4.0"
+
+keywords:
+  - social cognition
+  - chronic pain
+  - social threat
+  - qualitative research
+  - social representations
+  - social environment
+  - self-efficacy
+  - agency
+  - social support
