@@ -22,7 +22,27 @@ Interviews were conducted in French.
 
 `Supplementary_Material_2_Codebook_EN.pdf`
 
-English-language version of the final codebook corresponding to the analytic structure reported in the manuscript.
+English-language version of the final codebook corresponding to the final analytic structure reported in the manuscript.
+
+The codebook is organised hierarchically into:
+
+- **Categories**: the broadest analytical level;
+- **Codes**: analytical processes or phenomena grouped within each category;
+- *Sub-codes*: more specific processes nested within a code.
+
+For each category, code, and sub-code, the table provides:
+
+- an operational definition;
+- **Interviews**: the number of participant interviews in which the category,
+  code, or sub-code was identified;
+- **Segments**: the total number of coded data segments assigned to that
+  category, code, or sub-code.
+
+Categories are shown in **bold**, codes in regular type, and sub-codes in
+*italics*.
+
+The numerical counts are provided to document the distribution of the coding across the dataset. They should not be interpreted as measures of prevalence, importance, or effect size.
+For parent codes, segment counts include the segments assigned to their nested sub-codes and should therefore not be summed across hierarchical levels.
 
 ### 3. Supporting quotations
 
