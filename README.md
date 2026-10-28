@@ -46,7 +46,7 @@ For parent codes, segment counts include the segments assigned to their nested s
 
 ### 3. Supporting quotations
 
-`Supplementary_Material_3_Supporting_Quotes_FR_EN.xlsx`
+`Supplementary_Material_3_Supporting_Quotes_FR_EN.ods`
 
 Original French quotations corresponding to participant quotations translated into English and reported in the Results section of the manuscript.
 
