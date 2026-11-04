@@ -8,6 +8,8 @@ This repository contains the supplementary materials associated with the study t
 
 This repository contains supplementary methodological and analytic materials associated with the study. It does not contain the complete interview transcripts.
 
+---
+
 ## Contents
 
 ### 1. Interview guide
@@ -64,17 +66,25 @@ High-resolution version of the codebook diagram presented in the manuscript.
 
 High-resolution version of the central process diagram presenting the central process identified in the analysis.
 
+---
+
 ## Data availability and confidentiality
 
 Complete interview transcripts are not publicly available because they contain potentially identifiable qualitative information and unrestricted public sharing was not included in the conditions under which the data were collected.
 
 The repository therefore contains only the methodological and analytic materials necessary to support interpretation and transparency of the published study, together with the original-language versions of quotations reported in the manuscript.
 
+---
+
 ## Citation
 
 A permanent DOI for these supplementary materials is provided through Zenodo.
 
 Please cite both the associated article and the Zenodo record when reusing these materials.
+
+>A `citation.cff` file is included at the root of this repository. GitHub uses this file to generate citation information for the repository. The Zenodo record also provides citation formats based on the metadata associated with the archived release.
+
+---
 
 ## Licensing
 
@@ -93,3 +103,10 @@ Supplementary Material 3 contains original quotations from research participants
 These participant quotations are provided for transparency and verification of the published qualitative analysis and are excluded from the CC BY 4.0 license applying to the other materials in this repository.
 
 No additional licence for reuse, adaptation, or redistribution of participant quotations is granted beyond uses permitted by applicable law and appropriate scholarly quotation and citation.
+
+---
+
+## Contact
+
+Yvan Sonjon - yvan.sonjon@univ-lyon1.fr - yvan.sonjon@etik.com 
+Trajectoires team, Lyon Neuroscience Research Center (CRNL), INSERM U1028, CNRS UMR5292, Université Claude Bernard Lyon 1
