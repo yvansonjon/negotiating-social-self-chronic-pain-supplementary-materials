@@ -54,13 +54,13 @@ The file provides the English translation used in the manuscript alongside the o
 
 ### 4. High-resolution codebook diagram
 
-`Supplementary_Material_4_Codebook_Diagram_High_Resolution.png`
+`Supplementary_Material_4_Codebook_Diagram_High_Resolution.svg`
 
 High-resolution version of the codebook diagram presented in the manuscript.
 
 ### 5. High-resolution central process diagram
 
-`Supplementary_Material_5_Central_Process_Diagram_High_Resolution.png`
+`Supplementary_Material_5_Central_Process_Diagram_High_Resolution.svg`
 
 High-resolution version of the central process diagram presenting the central process identified in the analysis.
 
