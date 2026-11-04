@@ -93,9 +93,9 @@ This applies to:
 
 Supplementary Material 3 contains original quotations from research participants and their English translations as reported in the associated manuscript.
 
-These participant quotations are provided for transparency and verification of the published qualitative analysis and are excluded from the CC BY 4.0 license applying to the other materials in this repository.
+These participant quotations and their translations are provided for transparency and verification of the published qualitative analysis and are excluded from the CC BY 4.0 license applying to the other materials in this repository.
 
-No additional licence for reuse, adaptation, or redistribution of participant quotations is granted beyond uses permitted by applicable law and appropriate scholarly quotation and citation.
+No additional licence for reuse, adaptation, or redistribution of these quotations or their translations is granted beyond uses permitted by applicable law, including applicable quotation exceptions.
 
 ## Contact
 
